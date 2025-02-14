@@ -1,0 +1,15 @@
+commit 46d777a2b91382d37b5ab05a74db52d34478c8c6 (HEAD -> main, origin/main)
+Author: AlexandraPeres07 <aleze@uol.com.br>
+Date:   Fri Feb 14 13:29:17 2025 -0300
+
+    Delete temp directory
+
+commit 05a8d44686ec0a8d45b5f014333932040868f804
+Merge: 6b85330 bdc54af
+Author: Alexandra Peres Feliciano de Lima <aflima@cpqd.com.br>
+Date:   Fri Feb 14 13:10:34 2025 -0300
+
+    Merge branch 'main' of github.com:AlexandraPeres07/Numero_secreto
+
+commit 6b85330111bf1e85b25c117217c96c8e14d50589
+Author: Alexandra Peres Feliciano de Lima <aflima@cpqd.com.br>
