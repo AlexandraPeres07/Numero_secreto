@@ -1,4 +1,0 @@
-PS C:\Users\aflima\Documents\cursos\Analista QA - INicial\GitGitHub\3386-git-github-projeto_inicial> git log
-commit 47b5ff474bdff2411ec063e716dbcf4b8376ff6e (HEAD -> main, origin/main)
-Author: Alexandra Peres Feliciano de Lima <aflima@cpqd.com.br>
-Date:   Sat Feb 8 15:52:52 2025 -0300
